@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="projjjj" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projjjj" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="G:/Files/University/AUBG class material/Semester IV/COS 397 - Computer Graphics/GLFW/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projjjj" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="G:/Files/University/AUBG class material/Semester IV/COS 397 - Computer Graphics/GLFW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="G:/Files/University/AUBG class material/Semester IV/COS 397 - Computer Graphics/GLFW/include" />
+			<Add directory="../../audiere-1.9.4-win32/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glfw" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="..\..\audiere-1.9.4-win32\lib\audiere.lib" />
+			<Add directory="G:/Files/University/AUBG class material/Semester IV/COS 397 - Computer Graphics/GLFW/lib" />
+			<Add directory="../audiere-1.9.4-win32/include" />
+		</Linker>
+		<Unit filename="COS397lib.cpp" />
+		<Unit filename="COS397lib.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

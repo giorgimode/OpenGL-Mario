@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1365888924 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj\cos397lib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+
+1352412792 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\glfw\include\gl\glfw.h
+	<OpenGL/gl3.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL3/gl3.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1364517902 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj\cos397lib.h
+
+1365890023 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj\main.cpp
+	<cstdlib>
+	<math.h>
+	<time.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+	"labyrinth.h"
+
+1365254498 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj\labyrinth.h
+
+1366117784 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj - copy\cos397lib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+
+1364517902 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj - copy\cos397lib.h
+
+1366117574 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj - copy\main.cpp
+	<GL/glfw.h>
+	<cstdlib>
+	<math.h>
+	<time.h>
+	"cos397lib.h"
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<audiere.h>
+
+1365254498 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\projjjj - copy\labyrinth.h
+
+1139864230 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\audiere-1.9.4-win32\include\audiere.h
+	<vector>
+	<string>
+
+1366311108 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project - copy\cos397lib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+
+1364517902 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project - copy\cos397lib.h
+
+1366310801 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project - copy\main.cpp
+	<GL/glfw.h>
+	<cstdlib>
+	<math.h>
+	<time.h>
+	"cos397lib.h"
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<audiere.h>
+
+1366365000 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project\cos397lib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+
+1364517902 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project\cos397lib.h
+
+1366312012 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project\main.cpp
+	<GL/glfw.h>
+	<cstdlib>
+	<math.h>
+	<time.h>
+	"cos397lib.h"
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<audiere.h>
+
+1366365000 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project mario\cos397lib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"cos397lib.h"
+
+1364517902 g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project mario\cos397lib.h
+
+1366312012 source:g:\files\university\aubg class material\semester iv\cos 397 - computer graphics\just exercises\final project mario\main.cpp
+	<GL/glfw.h>
+	<cstdlib>
+	<math.h>
+	<time.h>
+	"cos397lib.h"
+	<string.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<audiere.h>
+

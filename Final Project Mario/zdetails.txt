@@ -1,0 +1,12 @@
+Coloring
+Textures
+Shadow + Reflection (Mushroom, Ventilation)
+Textures
+Ornaments and decorations
+Viewpoint navigation/Scene rotation
+Parametric Motion
+Parameter customization
+Lightening - using normal vectors
+Object motion
+Physical motion (bouncing mushroom)
+Sound effects (2 different sound files for different position)
